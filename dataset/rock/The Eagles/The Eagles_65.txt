@@ -1,0 +1,82 @@
+Premier League
+Arsenal:
+The Gunners
+Aston Villa:
+The Villains
+Burnley:
+The Clarets
+Chelsea:
+The Blues, The Pensioners
+Crystal Palace:
+The Eagles
+Everton:
+The Toffees
+Hull City:
+The Tigers
+Leicester City:
+The Foxes
+Liverpool:
+The Reds
+Manchester City:
+The Citizens
+Manchester United:
+The Red Devils
+Newcastle United:
+The Magpies
+Queens Park Rangers:
+Super Hoops
+Southampton:
+The Saints
+Stoke City:
+The Potters
+Sunderland:
+The Black Cats
+Swansea City:
+The Swans
+Tottenham Hotspur:
+The Spurs
+West Bromwich Albion:
+The Baggies
+West Ham United:
+The Hammers
+LaLiga Santander
+Deportivo Alavés:
+Babazorros
+Athletic Club:
+Leones
+Atlético Madrid:
+Colchoneros
+Celta de Vigo:
+NICKNAME
+Deportivo de La Coruña:
+Turcos
+Eibar:
+Armeros
+Espanyol:
+Periquitos
+Barcelona:
+Cúles
+Getafe:
+Azulones
+Girona:
+Blanquivermell
+Las Palmas:
+Pio-pio
+Leganés:
+Pepineros
+Levante:
+Granotas
+Málaga:
+Los Boquerones
+Real Betis:
+Heliopolitans
+Real Madrid:
+Meringues
+Real Sociedad:
+Txuri-urdinak
+Sevilla:
+Palanganas
+Valencia:
+Che
+Villarreal:
+The Yellow Submarine

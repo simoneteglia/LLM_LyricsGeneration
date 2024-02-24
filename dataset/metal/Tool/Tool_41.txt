@@ -1,0 +1,27 @@
+NURSE: Excuse me, doctor? If you have a moment
+.
+DOCTOR: A moment? What's the question?
+NURSE: More of a situation, a gentleman in Exam 3
+.
+DOCTOR: What's the problem?
+NURSE: That is the problem, we're not sure
+.
+DOCTOR: You've got the chart?
+NURSE: Right here
+.
+DOCTOR: Hmm... not much here, is there?
+NURSE: No doctor, no obvious physical trauma, vitals are stable
+DOCTOR: Name?
+NURSE: No sir
+.
+DOCTOR: Did someone drop him off? Maybe we can speak to them. Let's get some background on this fellow
+.
+NURSE: No ID, nothing, and he won't speak to anyone
+.
+DOCTOR: Alright, let's say hello
+.
+DOCTOR: Good morning, I'm Dr. Watson. How are you today?
+How are you today?
+Look, son, you're in a safe place, we want to help you, in whatever way we can. But you need to talk to us, we can't help you otherwise.
+Now, what's happened? Tell me everything
+.
