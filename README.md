@@ -17,3 +17,6 @@ The dataset for the **lyrics completion** task, containing 243 Kanye West songs 
 
 1. [Phi-2 for 'full lyrics generation'](https://huggingface.co/simoneteglia/phi-2-lyrical-genius)
 2. [Mistral7B for 'lyrics completion'](https://huggingface.co/simoneteglia/ye_mistral7B)
+
+## Author
+Simone Teglia, teglia.1836794@studenti.uniroma1.it
