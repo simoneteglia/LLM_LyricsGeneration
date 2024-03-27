@@ -2,9 +2,12 @@
 
 Repository for the final project of the 2023 Data Mining course, taught by Aris Anagnostopoulos at Sapienza, Rome. 🇮🇹
 
-## Dataset 🎤
+## Datasets 🎤
 
-The dataset is composed of 10000 song lyrics divided into 5 genres: indie, metal, pop, rap and rock. Each genre has 20 artist with 100 songs each. All songs are in English 🇬🇧
+The dataset for **full lyrics generation** task is composed of 10000 song lyrics divided into 5 genres: indie, metal, pop, rap and rock. Each genre has 20 artist with 100 songs each. All songs are in English 🇬🇧
+Check it in this repo or on [Kaggle](https://www.kaggle.com/datasets/simoneteglia/lyrics-dataset-rock-pop-rap-metal-indie)
+
+The dataset for the **lyrics completion** task, containing 243 Kanye West songs is public on Kaggle [here](https://www.kaggle.com/datasets/viccalexander/kanyewestverses?rvi=1)
 
 ## Tasks
 
