@@ -9,3 +9,8 @@ The dataset is composed of 10000 song lyrics divided into 5 genres: indie, metal
 ## Tasks
 
 ![tasks](./images/tasks.png)
+
+## Trained models on HuggingFace
+
+1. [Phi-2 for 'full lyrics generation'](https://huggingface.co/simoneteglia/phi-2-lyrical-genius)
+2. [Mistral7B for 'lyrics completion'](https://huggingface.co/simoneteglia/ye_mistral7B)
